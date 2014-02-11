@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cloudera.cdk</groupId>
+  <artifactId>cdk-morphlines-avro</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140211195932</lastUpdated>
+  </versioning>
+</metadata>

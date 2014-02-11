@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 11 20:46:37 CET 2014
+cdk-tools-0.9.1-SNAPSHOT.jar>=
+cdk-tools-0.9.1-SNAPSHOT-sources.jar>=
+cdk-tools-0.9.1-SNAPSHOT.pom>=
+cdk-tools-0.9.1-SNAPSHOT-javadoc.jar>=

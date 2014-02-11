@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 11 20:40:07 CET 2014
+cdk-data-core-0.9.1-SNAPSHOT-tests.jar>=
+cdk-data-core-0.9.1-SNAPSHOT.jar>=
+cdk-data-core-0.9.1-SNAPSHOT.pom>=
+cdk-data-core-0.9.1-SNAPSHOT-sources.jar>=

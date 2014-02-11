@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 11 20:44:52 CET 2014
+cdk-data-hbase-0.9.1-SNAPSHOT.jar>=
+cdk-data-hbase-0.9.1-SNAPSHOT.pom>=
+cdk-data-hbase-0.9.1-SNAPSHOT-sources.jar>=

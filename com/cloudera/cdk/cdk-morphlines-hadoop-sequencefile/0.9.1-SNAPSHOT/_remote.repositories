@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 11 21:00:22 CET 2014
+cdk-morphlines-hadoop-sequencefile-0.9.1-SNAPSHOT-tests.jar>=
+cdk-morphlines-hadoop-sequencefile-0.9.1-SNAPSHOT.jar>=
+cdk-morphlines-hadoop-sequencefile-0.9.1-SNAPSHOT-javadoc.jar>=
+cdk-morphlines-hadoop-sequencefile-0.9.1-SNAPSHOT.pom>=
+cdk-morphlines-hadoop-sequencefile-0.9.1-SNAPSHOT-sources.jar>=
