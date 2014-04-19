@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.phoenix</groupId>
+  <artifactId>phoenix-assembly</artifactId>
+  <versioning>
+    <versions>
+      <version>4.1.0-incubating-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140419110553</lastUpdated>
+  </versioning>
+</metadata>
